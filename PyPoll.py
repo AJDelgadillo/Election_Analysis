@@ -68,19 +68,5 @@ winning_candidate_summary = (
     f'Winning Vote Count: {winning_count:,}\n'
     f'Winning Percentage: {winning_percentage:.3}%\n'
     f'-----------------------')
-
-
 # Print the winning candidate summary
 print(winning_candidate_summary)
-
-# 1. The total number of votes cast.
-
-# 2. A complete list of candidates who received votes.
-
-# 3. The percentage of votes each candidate won.
-
-# 4. The total number of votes each candidate won.
-
-# 5. The winner of the election based on popular vote.
-
-# Close the file.
