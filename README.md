@@ -43,3 +43,9 @@ The analysis of the election results show that:
     - Denver county which accounted for 82.8% of the votes and 306,055 number of votes.
 
 ## Election Audit Summary
+
+This script could be used for any election with very minimal modification. One aspect that would need to be changed is the ‘file_to_load’ variable; we would need to edit this variable so that the correct relative path for the csv file is used. The results of running the script is entirely dependent on the data that is found in the csv file. We would also need to change the file_to_save variable so that the data analyzed by the script is saved in the correct text file.  
+
+Besides those two small modifications to make sure that the script is utilizing the correct data files, we could also edit the script to analyze the data differently. Using the same dataset given in this challenge we could change the script to determine which candidate was the most popular in each county. 
+
+We could also edit the script to analyze other types of datasets. For example, we could analyze a dataset concerning voter activity on ballot measures. Instead of writing the script to make a list of each candidate option I would make a list of ballot measures. I would also edit the CSV file to have a yes/no column and edit the script to determine the amount of yes or no votes given to each ballot measure. I would then be able to determine the percentage of yes and no votes, and ultimately which ballot measures were favored by the voters.  These are just two hypothetical situations, but this script is very versatile and could be used for many other similar datasets.
