@@ -16,7 +16,7 @@ Overall, for challenge 3 I analyzed the following parameters:
 9. Which county had the greatest voter turnout.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: election_results.csv ![election_results](Resources/election_results.csv)  
 - Software: Python 3.10.5, Visual Studio Code 1.67.2
 
 ## Election Audit Results
