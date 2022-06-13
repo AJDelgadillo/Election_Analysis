@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 Seth and Tom from the Colorado Board of Elections have requested an analysis of election results in preparation of an election audit. They specifically wanted to determine how many votes were cast in the election, who were the candidates, and who is the winning candidate. Following instructions given in Module 3 I was able to accomplish this goal by writing the PyPoll.py script.
-The goal for challenge 3 was to modify the PyPoll.py script to further analyze the election results and determine which county had the greatest voter turnout. 
+The goal for challenge 3 was to modify the PyPoll.py script to further analyze the election results and determine which county had the greatest voter turnout. The new script written for challenge 3 was saved as PyPoll_Challenge.py.
 Overall, for challenge 3 I analyzed the following parameters:
 
 1. The total amount of votes cast in the election.
