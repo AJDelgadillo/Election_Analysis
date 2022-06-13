@@ -1,7 +1,6 @@
 # The data we need to retrieve.
 import csv
 import os
-from tkinter import N
 
     # set datafile to variable
 file_to_load = os.path.join("Resources" , "election_results.csv")
